@@ -1,0 +1,26 @@
+* {
+    font-family: Roboto, sans-serif;
+}
+
+body {
+
+    background: #222 !important;
+    color: #ffff !important;
+
+}
+
+/* 
+.mainbox {
+    width: 70% !important;
+    max-width: 90% !important;
+} */
+
+
+.dbtn {
+
+    visibility: hidden !important;
+}
+
+.dbtn1 {
+    visibility: visible !important;
+}
